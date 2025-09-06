@@ -32,11 +32,9 @@ sri-lanka-tourism-stats/</br>
 ├─📄 requirements.txt </br>
 ├─📄 README.md </br>
 └─📄 .gitignore </br>
-```
 
----
 
-## 📊 Data Source
+### 📊 Data Source
 - **Sri Lanka Tourism Development Authority Annual Reports**  
   Website: [https://www.sltda.gov.lk/](https://www.sltda.gov.lk/)  
 
